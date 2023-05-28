@@ -4,9 +4,7 @@ This is a simple user interface for a Magic 8-Ball program. The user can enter a
 
 **Getting Started**
 
-To get started with this project, you can clone the repository to your local machine using the following command:
-
-https://github.com/louannemur/Magic8Ball.git
+To get started with this project, you can clone the repository to your local machine.
 
 Once you have cloned the repository, you can run the program by navigating to the directory containing the 8BallUserInterface.py file and running the following command:
 
